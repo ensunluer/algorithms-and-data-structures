@@ -1,0 +1,14 @@
+{
+  "nonlineer": {
+    "graf": {
+      "tree": {
+        "binary tree": {
+          "binary search tree": {
+            "self balancing tree": ["AVL tree", "red-black tree"]
+          }
+        }
+      },
+      "heap": ["binary heap", "binominal heap", "fibonacci heap"]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "lineer": {
+    "array": ["single dimension array", "multi dimension array"],
+    "list": ["array list", "generic list", "sorted list", "linked list"],
+    "stack": "",
+    "quequ": ""
+  }
+}
